@@ -19,7 +19,7 @@
 {"name":"虎猫视频","url":"http://vv.humaoweb.com/mogai_api.php/gctvapi.vod"},
 {"name":"DC视频","url":"http://chaorenbb.com/api.php/v1.vod"},
 {"name":"茶杯狐","url":"https://nnyy6.top/api.php/v1.vod"},
-{"name":"tvvip","url":"http://app.tvip.cc/api.php/v1.vod"}],//
+{"name":"tvvip","url":"http://app.tvip.cc/api.php/v1.vod"}],⚠//
 "caijizhan": [
 {"name":"妙播1","url":"http://video.ykvideo.cn/api.php"},
 {"name":"酷云妙播","url":"http://api.kunyu77.com/api.php"},
